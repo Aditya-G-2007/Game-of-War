@@ -1,0 +1,58 @@
+body{
+    background: url("https://media.istockphoto.com/id/1448470651/photo/green-poker-table.jpg?s=612x612&w=0&k=20&c=Tei4XZXt08ZnbHWeSkHdkk26HQsMQK88HyC7-NcX2Fw=");
+    background-repeat: no-repeat;
+    background-size: cover;      /* Scales image to fill the screen */
+    background-position: center; /* Centers the image */
+    background-attachment: fixed; /* Keeps it from scrolling with the page */
+    background-repeat: no-repeat;
+    min-height: 100vh;           /* Ensures the background is at least as tall as the screen */
+    margin: 0;
+    color:white;
+}
+.cardContainer{
+    height: 200px;
+    width:150px;
+    border-style:groove ;
+    margin-top: 8px;
+}
+/* ie this is the new deck button*/
+.clickme{
+    margin-top: 15px;
+    margin-left: 10px;
+    height:30px;
+    width:100px;
+    border-style: none;
+    background-color: yellow;
+    font-weight: 600;
+}
+#top{
+    display: flex;
+    
+}
+#top>button{
+    margin-right: 15px;
+}
+#title{
+    font-family:Rye;
+    font-size: 27px;
+}
+.mainContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.draw{
+    height: 30px;
+    width:100%;
+    border-style: none;
+    background-color: yellow;
+    font-weight: 600;
+}
+.score{
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+.dummy{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

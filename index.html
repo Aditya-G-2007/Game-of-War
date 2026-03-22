@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Geom:ital,wght@0,300..900;1,300..900&family=Rye&display=swap" rel="stylesheet">
+    <title> Game of War</title>
+</head>
+<body>
+    <div id="top">
+        <button class="clickme" id="NewDeck"> New Deck!</button> 
+        <p class="score" id="remaining">Remaining Cards :</p>
+    </div>
+
+    <div class="mainContainer">
+        <h2 id="title">Game of War</h2>
+        <p class="score" id="comp">Computer Score : 0</p>
+        <div class="cards">
+            <div class="cardContainer" id="one"></div>
+            <div class="cardContainer" id="two"></div>
+        </div>
+        <p class=" score userScore" id="user">My Score : 0</p>
+    </div>
+
+    <button class="draw" id="drawbutton">Draw Card</button>
+    <script src="game.js"></script>
+</body>
+</html>
