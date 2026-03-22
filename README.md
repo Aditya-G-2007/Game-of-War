@@ -6,7 +6,7 @@ A simple card game made to play with computer.
 A fast-paced, browser-based card game built with **Vanilla JavaScript** and the **Deck of Cards API**. Test your luck against the computer!
 
 ## 🚀 Live Demo
-[Link your GitHub Pages URL here]
+https://game-of-war-six.vercel.app/ => use this link in your browser!
 
 ## 🕹️ How to Play
 1. Click **"New Deck"** to fetch a fresh, shuffled deck of 52 cards.
@@ -28,7 +28,8 @@ A fast-paced, browser-based card game built with **Vanilla JavaScript** and the 
 - [Deck of Cards API](https://deckofcardsapi.com)
 
 ## 📸 Screenshot
-![Game Preview](https://via.placeholder.com) *(Replace this with a real screenshot later!)*
+<img width="783" height="483" alt="image" src="https://github.com/user-attachments/assets/7d38f8a2-f403-4957-b28e-9fc90764477c" />
+
 
 
 ## 📜 Local Setup
@@ -39,3 +40,5 @@ A fast-paced, browser-based card game built with **Vanilla JavaScript** and the 
  2.Open index.html in your favorite browser.
 
  3.Enjoy the game!
+
+ made with ❤️<3
