@@ -35,5 +35,7 @@ A fast-paced, browser-based card game built with **Vanilla JavaScript** and the 
 1. Clone the repository:
    ```bash
    git clone https://github.com
+   
 2.Open index.html in your favorite browser.
+
 3.Enjoy the game!
